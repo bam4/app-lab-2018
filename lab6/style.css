@@ -1,0 +1,48 @@
+
+
+.information {
+    background: lightyellow;
+    color: black;
+    padding: 10px 0px;
+    text-align: center
+}
+
+.btn { 
+    background: pink;
+    color: blue;
+    padding: 10px 40px;
+    transition: background .5s;
+    text-align: center
+    
+}
+
+.center {
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+    display:block;
+    
+}
+
+.right {
+    position: absolute;
+    right: 150px;
+    width: 300px;
+    padding: 10px;
+}
+
+
+.bg {
+    background-color: lightblue
+}
+
+
+.countacup {
+    font-family: fantasy;
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+    color: black;
+    display:block
+
+}
